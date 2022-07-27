@@ -9,8 +9,6 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakarinab&show_icons=true&locale=en&layout=compact" alt="laurakarinab" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurakarinab&show_icons=true&locale=en" alt="laurakarinab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurakarinab&show_icons=true&locale=en" alt="laurakarinab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurakarinab&" alt="laurakarinab" /></p>
